@@ -4072,7 +4072,7 @@ jQuery.fn.ready = function( fn ) {
 		// registration.
 		// .catch( function( error ) {
 		// 	jQuery.readyException( error );
-		} );
+		// } );
 
 	return this;
 };
